@@ -1,5 +1,0 @@
-[macos]
-localhost ansible_user=pratyushranjan
-
-[macos:vars]
-ansible_connection=local
